@@ -4,8 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HKxTPeDovDepNaezLeu4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HKxTPeDovDepNaezLeu4-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="316.4000244140625" y="83" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HKxTPeDovDepNaezLeu4-1" value="第一阶段：传统MOEA/D的提出与基本策略【14】【15】【16】" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="338" y="25" width="168" height="119" as="geometry" />
+          <mxGeometry x="148" y="25" width="625" height="116" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
