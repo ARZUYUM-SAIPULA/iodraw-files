@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HKxTPeDovDepNaezLeu4-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="352" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="HKxTPeDovDepNaezLeu4-1" value="第一阶段：传统MOEA/D的提出与基本策略【14】【15】【16】" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="338" y="25" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
